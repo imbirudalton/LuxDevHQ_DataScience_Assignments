@@ -113,4 +113,8 @@ Create a single interactive Excel dashboard containing the following sections:
 - Include **slicers** for:
   - Rating category  
   - Discount category  
-  - Price range (where applicable)  
+  - Price range (where applicable)
+
+  ###Solution
+  **Question 1** Calculate Discount Amount
+  <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/98c0440a-7b01-42e4-9833-8afbf963aef2" />
