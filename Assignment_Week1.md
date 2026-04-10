@@ -200,5 +200,9 @@ Compare high-discount and low-discount products based on average rating and numb
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/467ebe72-99cc-42f3-abbb-8f4a9fdc6506" />
 
 
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/bf74c83a-383e-4bab-8041-5fd131f969ce" />
+
+
+
 
 
