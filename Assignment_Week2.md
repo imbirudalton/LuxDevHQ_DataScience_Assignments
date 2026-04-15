@@ -256,3 +256,6 @@ This project covers the full Power BI workflow:
 - Dashboard creation  
 
 By the end, you will have a complete Power BI dashboard and report that provides meaningful insights into an electronics sales business.
+
+Solution
+
