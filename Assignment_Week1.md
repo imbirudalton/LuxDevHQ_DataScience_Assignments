@@ -117,20 +117,15 @@ Create a single interactive Excel dashboard containing the following sections:
  
 ---
 
-##Solution
+# Solution
 
-###Data Cleaning and Preparation
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/476ab474-3be3-44c4-8e9a-90df4eab8f58" />
-
----
-
-###Data Enrichment
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/7bb64c8f-07a2-422d-859b-e0b2a4f9bc88" />
+### Data Cleaning and Preparation
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/b54968cb-cc4a-496f-87a1-77c6820ad5ec" />
 
 ---
 
-###Data Analysis
-####Descriptive Analysis
+## Data Analysis
+### Descriptive Analysis
 
 *Average current price, old price, discount percentage, and rating?*
 Using Pivot Tables
@@ -150,7 +145,7 @@ Using Pivot Tables
 
 ---
 
-####Trend and Relationship Analysis
+### Trend and Relationship Analysis
 
 Analyze the relationship between discount percentage and number of reviews
 Using Pivot Tables
@@ -160,14 +155,7 @@ Analyze the relationship between rating and number of reviews
 Using Pivot Tables
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/530065aa-02bd-4472-86de-de7d19d9e119" />
 
-Determine whether higher discounts lead to increased customer engagement
-
-
-Determine whether higher-rated products tend to have more reviews
-
-
-####Product Performance Analysis
-
+### Product Performance Analysis
 
 Identify the top 10 products with the highest discounts
 
@@ -196,13 +184,30 @@ Compare high-discount and low-discount products based on average rating and numb
 
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/7a849cb5-2fae-4e58-af94-990665ea0672" />
 
-###Dashboard
+# Dashboard
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/467ebe72-99cc-42f3-abbb-8f4a9fdc6506" />
 
 
 <img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/bf74c83a-383e-4bab-8041-5fd131f969ce" />
 
+# Insights
 
+- Excessive discounting may reduce perceived product value or create skepticism about quality.
+- High product ratings act as a strong driver of customer engagement and trust.
+- Functional, everyday-use products dominate customer interest and review activity.
+- The marketplace maintains overall good product quality with limited poor-performing items.
+- Customer response to discounts is influenced by perceived value rather than price reduction alone.
 
+# Recommendations
 
+- The business should prioritize a **moderate discount strategy**, as it appears to strike the best balance between attracting customers and maintaining product value perception.  
+  High discounts should be used selectively, such as for clearance or seasonal promotions.
 
+- Focus on improving product quality and customer experience to naturally increase ratings.  
+  Encouraging reviews for high-performing products can further strengthen credibility and visibility.
+
+- The business should prioritize stocking and promoting essential household and utility products, as they generate higher engagement and likely stronger sales performance.
+
+- Maintain current quality standards while focusing improvement efforts on mid-rated products (around 3.0–3.5) to elevate overall platform performance.
+
+- Adopt a balanced promotional strategy, ensuring discounts enhance perceived value rather than signal low-quality products.
